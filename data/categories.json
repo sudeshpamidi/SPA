@@ -1,0 +1,38 @@
+[
+	{
+        "Category": "Beverages",
+        "Value": "Beverages"
+	},
+	{
+        "Category": "Condiments",
+        "Value": "Condiments"
+	},
+	{
+        "Category": "Confections",
+        "Value": "Confections"
+	},
+	{
+        "Category": "Dairy Products",
+        "Value": "Dairy Products"
+	},
+	{
+        "Category": "Dairy Products",
+        "Value": "Dairy Products"
+	},
+	{
+        "Category": "Grains",
+        "Value": "Grains"
+	},
+	{
+        "Category":"Meats",
+        "Value": "Meats"
+	},
+	{
+        "Category": "Produce",
+        "Value": "Produce"
+    },
+	{
+        "Category":"Seafood",
+        "Value": "Seafood"
+	}
+]
